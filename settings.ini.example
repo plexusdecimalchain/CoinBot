@@ -1,0 +1,12 @@
+[decimal]
+api_url = https://testnet-explorer-api.decimalchain.com/api
+address_to_link = https://testnet.explorer.decimalchain.com
+main_coin = tdel
+
+#https://mainnet-explorer-api.decimalchain.com/api
+#https://testnet-explorer-api.decimalchain.com/api
+
+[telegram]
+api_url = https://api.telegram.org/bot
+token = 
+channel_id = 
